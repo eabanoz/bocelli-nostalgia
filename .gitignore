@@ -1,0 +1,22 @@
+# ---- SECRETS -------------------------------------------------------------
+*.key
+.env
+credentials*.json
+client_secret*.json
+
+# ---- RAW DATA: comments_raw.csv contains author_channel_id (personal data)
+data/raw/*
+!data/raw/.gitkeep
+
+# ---- Python --------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# ---- OS / editor ---------------------------------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
