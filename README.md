@@ -22,7 +22,7 @@ follow along.**
 |---|---|---|---|---|---|
 | 01 | Channel performance | yes* | no | ~10 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eabanoz/bocelli-nostalgia/blob/main/notebooks/01_channel_performance.ipynb) |
 | 02 | Harvest & prepare | optional | no | ~5 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eabanoz/bocelli-nostalgia/blob/main/notebooks/02_harvest_and_prepare.ipynb) |
-| 03 | Nostalgia analysis | no | **yes** | ~15 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eabanoz/bocelli-nostalgia/blob/main/notebooks/03_nostalgia_analysis.ipynb) |
+| 03 | Nostalgia analysis | no | **no** | ~15 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eabanoz/bocelli-nostalgia/blob/main/notebooks/03_nostalgia_analysis.ipynb) |
 
 \* Notebook 01 collects live data. Notebooks 02 and 03 have switches
 (`HARVEST`, `SCORE`) that load the committed datasets instead.
